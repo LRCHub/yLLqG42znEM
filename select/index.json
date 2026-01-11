@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "虹と Swing ver.（feat. Kan Sano）",
+  "base_artist": "ぷにぷに電機",
+  "createdAt": "2026-01-11T16:35:48.158503Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹と",
+      "artist": "ぷにぷに電機、Kan Sano",
+      "has_synced": false,
+      "path": "select/pl_01_虹と_ぷにぷに電機、Kan_Sano.txt"
+    }
+  ]
+}
